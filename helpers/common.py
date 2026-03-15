@@ -2,6 +2,7 @@ import os
 from dotenv import load_dotenv
 from langfuse import get_client
 from langfuse.langchain import CallbackHandler
+from langchain_ollama import ChatOllama
 from langchain_openai import ChatOpenAI
 
 load_dotenv()
@@ -17,6 +18,11 @@ TOGETHER_API_KEY= os.getenv('TOGETHER_API_KEY')
 langfuse = get_client()
 langfuse_handler = CallbackHandler()
 
+ollama_llm = ChatOllama(
+  model=GEMMA_MODEL,
+  base_url=BASE_URL,
+  validate_model_on_init=True
+)
 
 together_ai_llm = ChatOpenAI(
   api_key=TOGETHER_API_KEY,
