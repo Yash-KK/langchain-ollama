@@ -3,6 +3,10 @@ langchain-ollama
 langchain-openai
 langchain-community
 langfuse
+
 python-dotenv
+pymupdf
 
 streamlit
+
+tiktoken
