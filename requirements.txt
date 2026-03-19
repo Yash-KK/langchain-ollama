@@ -12,3 +12,4 @@ pymupdf
 streamlit
 
 tiktoken
+unstructured[all-docs]
