@@ -1,0 +1,36 @@
+**Stock‑market news extracted from the text**
+
+- **TCS & ABB** – Signed a MoU to deepen collaboration on IT, AI, digital twins, factory modernization and sustainability in India.
+- **BCL Enterprises Ltd** – Held 2nd EGM (FY 2025‑26) via VC/OAVM; elected Ms. Sonika Aggarwal as Independent Director and M/s GHR & Co. as Statutory Auditors.
+- **Abans Financial Services Ltd** – SEBI opened a 1‑year window (Feb 2026‑Feb 2027) for dematerialized shares sold before April 2019; announced details in Financial Express and Mumbai Lakshadeep.
+- **Ion Exchange India** – CRISIL reaffirmed ratings (Long‑Term A/Stable, Short‑Term A1); bank‑loan facility raised to ₹2,099.7 cr from ₹1,849.4 cr.
+- **BHEL** – Will invest ₹3,064.5 cr in Coal India JV for a 2,000 TPD ammonium nitrate plant; formed JV with Titagarh Rail for Vande Bharat maintenance; Q3 net profit rose to ₹390.4 cr.
+- **JCT Ltd** – Committee of Creditors met on 7 and 10 March 2026; 12th meeting focused on second‑round commercial negotiations with resolution applicants.
+- **Power & Instrumentation (Gujarat)** – Allotted 300,000 shares to promoter group at ₹83.75; promoter holding increased from 6.71 % to 8.03 %; paid‑up capital ₹211.69 cr.
+- **India Energy Exchange Ltd** – Scheduled analyst/investor meetings on 20 and 24 March 2026 (Aequitas Investments virtual, Prusik Investment Management in Noida).
+- **Tata Elxsi** – Launched ODC for Terumo Corp focusing on cardiac/vascular solutions; integrates AI and GenAI.
+- **Nestle India** – Expanded Sanand plant with ₹225 cr line; new capacity raises yearly Munch output to 8,300 t.
+- **Ashima Ltd** – Partially redeemed 2,750 unlisted, secured NCDs via call option; ₹13.37 cr principal reduced.
+- **Astron Paper & Board** – Held 1st EGM (19 March 2026) via VC/OAVM; appointed statutory auditors and regularised Ms. Jankiben Patel as Independent Director.
+- **YOGI Ltd** – Secured ₹26.3 cr order from Companion Vinimay Trading Pvt. Ltd. for industrial components (rotary table, tool changer, accessories).
+- **HDFC Bank** – Indian markets crashed on 19 March; Nifty fell 3.3 % to 23,000, Sensex 74,207; bank dropped 5 %; RBI approved transition for Part‑Time Chairman role.
+- **BLB Ltd** – Director Brij Rattan Bagri received SEBI show‑cause notice for alleged insider‑trading; company stated no operational impact.
+- **Padam Cotton Yarns Ltd** – Disclosed material under SEBI (SAST) Regulations 2011.
+- **Petronet LNG / GAIL** – Stocks fell after Qatar’s Ras Laffan LNG facility damage raised global gas‑supply concerns.
+- **Sensex & Nifty** – Plunged (Sensex –2,497 points to 74,207; Nifty –776 points to 23,002) on 19 March; 10 Nifty 50 stocks hit 52‑week lows.
+- **Apeejay Surrendra Park Hotels Ltd** – Karan Paul bought 44,180 shares (0.02 % equity) via NSE (17‑18 March 2026).
+- **Steelman Telecom Ltd** – Conducted EGM on 19 March 2026; raised authorized share capital and approved related‑party transactions.
+- **NBCC (India) Ltd** – Secured orders worth ₹320 cr and ₹5,800 cr for Rajasthan projects.
+- **Kinetic Engineering Ltd** – Announced management change under Regulation 30 (LODR).
+- **HDFC Bank (chairman resignation)** – Triggered significant governance questions and market impact.
+- **Foreign selling of HDFC Bank** – FPIs offloaded ₹52,704 cr, drags Nifty 50 to worst fortnight since March 2020; bank fell 4.3 %.
+- **Bajaj Finance Ltd** – Shares fell 5.2 %; lost ₹1 trn market cap since Feb 27; analysts noted long‑term potential, P/B near 5×.
+- **Reliance Communications** – Anil Ambani faces CBI probe over alleged fund diversion; examines loan routing via related entities.
+- **Sanco Technologies** – Hit all‑time high of ₹266.3 on strong momentum.
+- **ONGC Ltd** – Rose 2.5 % intraday, defying 2.9 % Nifty decline; supported by oil surge and positive earnings outlook.
+- **JSW Steel** – Unit seeks government help for gas‑supply shortages.
+- **Mahindra & Mahindra** – Targets ₹6,000 cr capex for tractors by FY27; prioritises exports, tech and global platforms.
+- **Asian Paints Ltd** – Fell 3.08 % to ₹2,193 on 19 March 2026 due to sectoral weakness.
+- **Sunil Industries Ltd** – Reached 52‑week low of ₹62.15 amid continuing downtrend.
+- **AVI Polymers Ltd** – Board approved 8.99 cr equity shares rights issue at ₹10/share; Brickwork Ratings appointed for fund utilisation monitoring.
+- **Pondy Oxides & Chemicals Ltd** – Scheduled analyst/investor meet on 25 March 2026 in Chennai; no unpublished price‑sensitive information to be disclosed.

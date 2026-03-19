@@ -1,0 +1,32 @@
+**Stock‑market news excerpts from the supplied text**
+
+- “buy KEC International Ltd. stock at an attractive price? Should you sell shares of State Bank of India Ltd.?”
+- “NDTV Business TCS Share Price Live Updates: TCS's beta value points to stability”
+- “Economic Times Titan Company Share Price Live Updates: Titan Company achieves significant 3M returns”
+- “Economic Times Divis Labs Share Price Live Updates: Divis Labs' three‑month performance shows negative returns”
+- “Economic Times Wipro Share Price Live Updates: Wipro's beta indicates a defensive stock”
+- “Economic Times Bajaj Finance Share Price Live Updates: Bajaj Finance Experiences Notable Decline”
+- “Economic Times ONGC Share Price Live Updates: ONGC's six‑month beta reflects stability”
+- “Economic Times Hero MotoCorp Share Price Live Updates: Hero MotoCorp's returns reflect a challenging month”
+- “Economic Times Bajaj Auto Share Price Live Updates: Bajaj Auto showcases a low beta value”
+- “Economic Times HUL Share Price Live Updates: HUL shows consistent performance with low beta”
+- “Economic Times Asian Paints Share Price Live Updates: Asian Paints holds a six‑month beta of 0.7235.”
+- “Economic Times JSW Steel Share Price Live Updates: JSW Steel experiences a decline in returns”
+- “Economic Times Sun Pharma Share Price Live Updates: Sun Pharma's Price Decline Below Support Level”
+- “Economic Times ITC Share Price Live Updates: ITC's Struggles Continue with Price Drop”
+- “Economic Times Apollo Hospital Share Price Live Updates: Apollo Hospital's monthly returns indicate a setback”
+- “Economic Times Bajaj Finserv Share Price Live Updates: Bajaj Finserv experiences a notable decline”
+- “Economic Times L&T Share Price Live Updates: L&T Stock Plummets Over 5%”
+- “Economic Times RIL Share Price Live Updates: RIL's Monthly Decline”
+- “Economic Times BPCL Share Price Live Updates: BPCL's returns indicate significant market challenges”
+- “Economic Times HDFC Bank Share Price Live Updates: HDFC Bank's monthly returns indicate a setback”
+- “Economic Times Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a gap‑down start; Asian shares trade lower”
+- “Economic Times HPCL, BPCL & IOC shares fall up to 7% to hover near 52‑week lows. Right time to buy? Shares of HPCL, BPCL and Indian Oil fell sharply on Thursday”
+- “Economic Times IndiGo, Asian Paints, other crude‑sensitive shares plunge up to 4% as oil soars back above $110”
+- “Economic Times HDFC Bank shares slump 9%, set to record worst day since Covid crash”
+- “Economic Times Nifty Bank plunges 3% as HDFC Bank crashes”
+- “Economic Times HDFC Bank shares in focus as Atanu Chakraborty quits, says certain values didn’t align; ADRs tumble 7%”
+- “Economic Times HDFC Bank – Boardroom change, leadership concerns, analysts see buying opportunity”
+- “Economic Times HDFC Bank’s delayed response to chairman exit raises sentiment risks: Bernstein Brokerage…” (and related quotes)
+- “Economic Times HDFC Bank – RBI sees ‘No Material Concerns’ after Atanu Chakraborty’s exit”
+- Various other repeated mentions of HDFC Bank, its share price decline, governance concerns, and analyst views (e.g., “HDFC Bank is under scrutiny due to boardroom disagreements”, “HDFC Bank shares fell 4% after chairman’s resignation”, etc.)
