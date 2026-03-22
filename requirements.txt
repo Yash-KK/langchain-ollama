@@ -1,9 +1,14 @@
 beautifulsoup4
 
+fastembed
+
 langchain
 langchain-ollama
 langchain-openai
+langchain-qdrant
 langchain-community
+langchain-text-splitters
+
 langfuse
 
 python-dotenv
