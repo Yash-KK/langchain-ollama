@@ -17,4 +17,6 @@ pymupdf
 streamlit
 
 tiktoken
+langchain-tavily
+
 unstructured[all-docs]

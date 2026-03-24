@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 from langfuse import get_client
+from langchain_tavily import TavilySearch
 from langfuse.langchain import CallbackHandler
 from langchain_ollama import ChatOllama
 from langchain_openai import ChatOpenAI
@@ -14,7 +15,9 @@ NOMIC_EMBEDDING_MODEL = "nomic-embed-text:latest"
 
 BASE_URL = "http://localhost:11434/"
 
-TOGETHER_API_KEY= os.getenv('TOGETHER_API_KEY') 
+TOGETHER_API_KEY= os.getenv('TOGETHER_API_KEY')
+TAVILY_SEARCH_API_KEY= os.getenv("TAVILY_SEARCH_API_KEY")
+
 langfuse = get_client()
 langfuse_handler = CallbackHandler()
 
@@ -29,4 +32,11 @@ together_ai_llm = ChatOpenAI(
   model="OpenAI/gpt-oss-20B",
   base_url="https://api.together.xyz/v1",
   callbacks=[langfuse_handler]
+)
+
+
+tavily_search = TavilySearch(
+    max_results=3,
+    topic="general",
+    tavily_api_key=TAVILY_SEARCH_API_KEY
 )
