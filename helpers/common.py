@@ -24,7 +24,7 @@ langfuse_handler = CallbackHandler()
 ollama_llm = ChatOllama(
   model=GEMMA_MODEL,
   base_url=BASE_URL,
-  validate_model_on_init=True
+  validate_model_on_init=False
 )
 
 together_ai_llm = ChatOpenAI(
