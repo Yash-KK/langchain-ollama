@@ -176,3 +176,4 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python
 
 /rag-dataset
+/11_Text_to_SQL/employees_db-full-1.0.6.db
