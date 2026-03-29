@@ -31,7 +31,8 @@ together_ai_llm = ChatOpenAI(
   api_key=TOGETHER_API_KEY,
   model="OpenAI/gpt-oss-20B",
   base_url="https://api.together.xyz/v1",
-  callbacks=[langfuse_handler]
+  callbacks=[langfuse_handler],
+  temperature=0
 )
 
 
