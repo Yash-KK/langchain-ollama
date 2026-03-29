@@ -27,9 +27,11 @@ ollama_llm = ChatOllama(
   validate_model_on_init=False
 )
 
+model_1 = "OpenAI/gpt-oss-20B"
+model_2 = "Qwen/Qwen3.5-9B"
 together_ai_llm = ChatOpenAI(
   api_key=TOGETHER_API_KEY,
-  model="OpenAI/gpt-oss-20B",
+  model=model_1,
   base_url="https://api.together.xyz/v1",
   callbacks=[langfuse_handler],
   temperature=0
