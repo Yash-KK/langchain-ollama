@@ -1,0 +1,124 @@
+{
+    "contact_information": {
+        "name": "Yash Kharche",
+        "email": "reachyashk@gmail.com",
+        "phone_number": "9182206875",
+        "website": "https://yashkharche.tech"
+    },
+    "education": [
+        {
+            "institution_name": "Hyderabad Institute of Technology and Management",
+            "degree": "Bachelor of Computer Engineering",
+            "field_of_study": null,
+            "graduation_dates": "Nov 2021 \u2013 July 2025"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Full Stack Developer Intern",
+            "company_name": "The Hotspring",
+            "location": "Remote",
+            "dates_of_employment": "Dec 2023 \u2013 July 2025",
+            "responsibilities": [
+                "Revamped the front-end architecture using Tailwind CSS, ShadCN UI, and Vite, improving design consistency and reducing development time by 40%.",
+                "Migrated legacy components to reusable ShadCN primitives, decreasing code duplication by 30% and enhancing maintainability across modules.",
+                "Designed an asynchronous invoice generation system using GraphQL and Celery, reducing invoice processing time by 80% and eliminating manual monthly reports.",
+                "Automated task shot naming with dynamic component selection, cutting manual effort by 50% and streamlining VFX production workflows.",
+                "Resolved AWS archive errors on the front-end by dynamically fetching storage class and restore status with boto3, improving download success rates by 25%"
+            ],
+            "technologies_used": [
+                "React",
+                "Tailwind CSS",
+                "ShadCN UI",
+                "Vite",
+                "Python",
+                "Django",
+                "GraphQL"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "project_title": "Summarizer - AI PDF Summarizer",
+            "description": "Built Summarizer, an AI-driven platform that transforms bulky PDFs into concise summaries, helping students and professionals save hours of manual reading.",
+            "technologies_used": [
+                "Next.js",
+                "Tailwind CSS",
+                "LangChain",
+                "OpenAI",
+                "Gemini APIs"
+            ],
+            "outcomes": "Helps students and professionals save hours of manual reading."
+        },
+        {
+            "project_title": "Blink - Uptime Monitoring Platform",
+            "description": "Built a decentralized uptime monitoring platform using TurboRepo and WebSockets, reducing validation latency by 40% through real-time website status checks.",
+            "technologies_used": [
+                "TurboRepo",
+                "Next.js",
+                "Bun.js",
+                "TailwindCSS"
+            ],
+            "outcomes": "Reducing validation latency by 40% through real-time website status checks."
+        },
+        {
+            "project_title": "ShayariKunj",
+            "description": "Built a poetry-sharing platform, attracting 150 users with seamless content discovery and optimized database queries, improving Shayari retrieval time by 50%. Designed a roadmap for crypto payments and admin approval workflows, boosting user engagement and submission speed by 30%.",
+            "technologies_used": [
+                "Next.js",
+                "Tailwind CSS",
+                "Prisma"
+            ],
+            "outcomes": "Attracting 150 users with seamless content discovery and optimized database queries, improving Shayari retrieval time by 50%"
+        },
+        {
+            "project_title": "SolForge - Solana Token Launchpad",
+            "description": "Built a web3 token launchpad on Solana, enabling the creation and deployment of SPL tokens 50% faster with wallet connectivity, real-time feedback and smooth animations.",
+            "technologies_used": [
+                "React.js",
+                "TypeScript",
+                "Solana"
+            ],
+            "outcomes": "Enabling the creation and deployment of SPL tokens 50% faster with wallet connectivity, real-time feedback and smooth animations."
+        }
+    ],
+    "skills": {
+        "programming_languages": [
+            "Python",
+            "TypeScript",
+            "JavaScript"
+        ],
+        "technologies_tools": [
+            "Django",
+            "Django REST Framework",
+            "Node.js",
+            "Express",
+            "React.js",
+            "Next.js",
+            "Tailwind CSS",
+            "ShadCN UI",
+            "GraphQL",
+            "LangChain",
+            "OpenAI",
+            "Gemini APIs",
+            "Solana",
+            "boto3",
+            "Celery",
+            "TurboRepo",
+            "WebSockets",
+            "Bun.js",
+            "Clerk",
+            "UploadThing",
+            "Prisma"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "awards": [
+            "2nd place in INNOFESTA College Hackathon for building a solution to optimize AWS cloud costs",
+            "Received a $3000 grant from Superteam India for developing Blink, a decentralized uptime monitoring platform"
+        ],
+        "affiliations": [],
+        "languages": []
+    }
+}
